@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Tabbar/TabsPage",
+    "pages/Net/Controller/NetFirstController",
+    "pages/Net/Controller/NetSecondController",
+    "pages/Net/View/LongCardItemPage"
+  ]
+}
